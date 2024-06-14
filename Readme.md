@@ -19,7 +19,7 @@
   - `IteratorCollection` 是迭代器集合接口，提供获取迭代器的方法
   - `JSONIteratorCollection` 是具体迭代器集合接口，其会创建并返回具体的JSONIterator
 
-  迭代器通过使用`next`的方法按顺序遍历JSON树萨汗国年的所有结点
+  迭代器通过使用`next`的方法按顺序遍历JSON树上的所有结点
 
 - 访问者模式
 
@@ -62,17 +62,17 @@ python main.py -c ./config/config.json
 
   - 扑克牌图标族
 
-    ![poker-tree](.\figure\poker-tree.png)
+    ![poker-tree](./figure/poker-tree.png)
 
   - 自定义图标族
 
-    ![shape-tree](.\figure\shape-tree.png)
+    ![shape-tree](./figure/shape-tree.png)
 
 - 长方形结构
 
   - 扑克牌图标族
 
-    ![poker-rectangle](.\figure\poker-rectangle.png)
+    ![poker-rectangle](./figure/poker-rectangle.png)
 
   - 自定义图标族
 
