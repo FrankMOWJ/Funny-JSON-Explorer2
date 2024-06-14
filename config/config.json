@@ -1,0 +1,8 @@
+{
+    "json_file": "./test_case.json",
+    "icon":{
+        "node": "♢",
+        "leaf": "♤"
+    },
+    "style":"rectangle"
+}
